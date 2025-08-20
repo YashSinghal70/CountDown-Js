@@ -1,6 +1,6 @@
 function countDown(){
 
-let futureDate = new Date("september 30, 2025, 12:00:00").getTime();
+let futureDate = new Date("December 30, 2025, 12:00:00").getTime();
 // new Date("August 20, 2025, 12:00:00") → creates a Date object for Aug 20, 2025, 12:00:00
 // .getTime() → returns the number of milliseconds since 1 Jan 1970  to that date
 
